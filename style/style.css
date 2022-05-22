@@ -27,7 +27,6 @@ ul li a {
   transition: 0.5s;
 }
 ul li a:hover {
-  margin: 15px;
   background-color: var(--bg-color-hover);
   color: var(--color-hover);
   border-radius: 30px;
